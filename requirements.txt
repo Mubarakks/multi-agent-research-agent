@@ -1,0 +1,37 @@
+#langchain
+langchain
+langchain-core
+langchain-community
+
+# llm providers
+langchain-groq
+
+groq
+
+python-dotenv
+rich
+beautifulsoup4
+
+requests
+
+langgraph
+
+
+langchain-tavily
+tavily-python
+
+
+# =========================
+# Data Validation / Schemas
+# =========================
+pydantic
+
+# =========================
+# Optional: HTML parsing support
+# =========================
+lxml
+
+# =========================
+# UI
+# =========================
+streamlit
