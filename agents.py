@@ -8,7 +8,7 @@ from dotenv import load_dotenv
 load_dotenv()
 
 # model setup
-llm=ChatGroq(model="openai/gpt-oss-20b",temperature=0)
+llm=ChatGroq(model="openai/gpt-oss-20b", temperature=0,max_tokens=800)
 
 # 1st agent
 def search_agent():
